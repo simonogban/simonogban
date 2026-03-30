@@ -19,9 +19,10 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I’m Simon OgbanJunior Data Analyst | Quality Engineering Specialist | Six Sigma Green BeltI specialize in bridging the gap between complex industrial operations and actionable data insights. With a background in Quality Assurance and Project Management at global firms like Baker Hughes and GE, I bring a "first-principles" approach to solving analytical problems.* 🔭 Currently: Focusing on building scalable data products and AI-driven workflows Python, SQL, Tableau, Power BI, and Excel.
-Expertise: Root Cause Analysis (RCA), Six Sigma (DMAIC), and Predictive Maintenance.
-Certifications: CompTIA Data+, BCS Business Analysis Foundation, and Lean Six Sigma Green Belt.I’m passionate about transforming raw datasets into dashboards that don't just show "what" happened, but "why" it matters for the bottom line.  
+I’m Simon Ogban, Data Analyst | Quality Engineering Specialist | Six Sigma Green BeltI specialize in bridging the gap between complex industrial operations and actionable data insights. With a background in Quality Assurance and Project Management at global firms like Baker Hughes and GE, I bring a "first-principles" approach to solving analytical problems.* 🔭 Currently: Focusing on building scalable data products and AI-driven workflows.
+* 🛠 Tech Stack: Python, SQL, Tableau, Power BI, and Excel.
+* 📉 Expertise: Root Cause Analysis (RCA), Six Sigma (DMAIC), and Predictive Maintenance.
+* 🎓 Certifications: CompTIA Data+, BCS Business Analysis Foundation, and Lean Six Sigma Green Belt.I’m passionate about transforming raw datasets into dashboards that don't just show "what" happened, but "why" it matters for the bottom line.
 </p>
 
 ---
