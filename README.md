@@ -4,63 +4,90 @@
 </p>
 -->
 
-<h1 align="center">Hi, I'm SIMON OGHENERORO OGBAN</h1>
-<h2 align="center">Data Analysis | Data Science </h2>
+<h1 align="center">Hi, I'm Simon Ogheneroro Ogban</h1>
+<h2 align="center">Data Analysis | Data Science | Business Analysis  </h2>
 
 ---
 
-
+<!--
 <div align="center">
 <a href="https://github.com/UserNameHere"><h2>View My GitHub Portfolio</h2></a>
 </div>
-
+-->
 
 ---
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.  
+It’s great to meet a fellow data enthusiast, Simon! Based on your CV, you have a powerhouse combination of heavy-industry engineering experience (Baker Hughes, GE) and modern data analytics skills.Since GitHub is your digital storefront, your "About Me" (or README.md) should highlight how you bridge the gap between physical operations and digital insights.Here are a few options for your GitHub profile, ranging from concise to a full professional narrative.Option 1: The "Bridge Builder" (Best for overall impact)This version highlights your unique transition from Quality Engineering to Data Analytics.👋 Hi, I’m Simon OgbanJunior Data Analyst | Quality Engineering Specialist | Six Sigma Green BeltI specialize in bridging the gap between complex industrial operations and actionable data insights. With a background in Quality Assurance and Project Management at global firms like Baker Hughes and GE, I bring a "first-principles" approach to solving analytical problems.* 🔭 Currently: Focusing on building scalable data products and AI-driven workflows Python, SQL, Tableau, Power BI, and Excel.
+Expertise: Root Cause Analysis (RCA), Six Sigma (DMAIC), and Predictive Maintenance.
+Certifications: CompTIA Data+, BCS Business Analysis Foundation, and Lean Six Sigma Green Belt.I’m passionate about transforming raw datasets into dashboards that don't just show "what" happened, but "why" it matters for the bottom line.  
 </p>
 
 ---
-
 <h2 align="center">Skills & Tools</h2>
-
-### Programming & Analysis
+ 
+### Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
-
-### Data Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Power BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-</p>
-
-### Tools & Platforms
+ 
+### Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
 </p>
+ 
+### SQL
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Joins-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Joins"/>
+  <img src="https://img.shields.io/badge/SQL-Aggregations-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Aggregations"/>
+  <img src="https://img.shields.io/badge/SQL-CTEs-00758F?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL CTEs"/>
+</p>
+ 
+### Excel
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Data Cleaning"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Data Analysis"/>
+  <img src="https://img.shields.io/badge/Excel-Pivot%20Tables-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Pivot Tables"/>
+</p>
+ 
+### Data Science & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</p>
+ 
+### Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-007ACC?style=for-the-badge&logo=windows" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Mac%20OS-F37626?style=for-the-badge&logo=mac%20os" alt="Mac OS"/>
+</p>
+ 
+<br />
+
+
 
 ---
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/UserNameHere" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Simonogban" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UserNameHere&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simonogban&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
